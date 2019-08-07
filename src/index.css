@@ -1,0 +1,13 @@
+.code-box-demo p {
+  margin: 0;
+}
+
+.ant-card {
+  margin-bottom: 30px;
+}
+
+.btn {
+  border: "1";
+  height: 40;
+  width: 150;
+}
